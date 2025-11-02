@@ -36,7 +36,7 @@ Before running this application, install these programs:
 1. Open **Visual Studio Code**
 2. Press `Ctrl + Shift + P` (Windows) or `Cmd + Shift + P` (Mac)
 3. Type: `Git: Clone` and press Enter
-4. Paste this URL: `https://github.com/Dray9/Activity2-Notes-App.git`
+4. Paste this URL: `https://github.com/Dray9/Mynotes.git`
 5. Select a folder where you want to save the project (e.g., Documents or Desktop)
 6. Click "Open" when prompted
 
