@@ -31,14 +31,13 @@ Before running this application, install these programs:
 
 ## How to Run the Application
 
-### Step 1: Download the Project
+### Step 1: Clone the Project
 
 1. Open **Visual Studio Code**
 2. Press `Ctrl + Shift + P` (Windows) or `Cmd + Shift + P` (Mac)
-3. Type: `Git: Clone` and press Enter
-4. Paste this URL: `https://github.com/Dray9/Mynotes.git`
-5. Select a folder where you want to save the project (e.g., Documents or Desktop)
-6. Click "Open" when prompted
+3. Type: `Git: Clone` and paste this URL: `https://github.com/Dray9/Mynotes.git`
+4. Select a folder where you want to save the project (e.g., Documents or Desktop)
+5. Click "Open" when prompted
 
 ### Step 2: Start the Backend (Server)
 
