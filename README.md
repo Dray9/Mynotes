@@ -36,8 +36,6 @@ Before running this application, install these programs:
 1. Open **Visual Studio Code**
 2. Press `Ctrl + Shift + P` (Windows) or `Cmd + Shift + P` (Mac)
 3. Type: `Git: Clone` and paste this URL: `https://github.com/Dray9/Mynotes.git`
-4. Select a folder where you want to save the project (e.g., Documents or Desktop)
-5. Click "Open" when prompted
 
 ### Step 2: Start the Backend (Server)
 
